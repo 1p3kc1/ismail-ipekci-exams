@@ -1,0 +1,14 @@
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev10_BankAccount\bin\Debug\net10.0\Odev10_BankAccount.exe
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev10_BankAccount\bin\Debug\net10.0\Odev10_BankAccount.deps.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev10_BankAccount\bin\Debug\net10.0\Odev10_BankAccount.runtimeconfig.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev10_BankAccount\bin\Debug\net10.0\Odev10_BankAccount.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev10_BankAccount\bin\Debug\net10.0\Odev10_BankAccount.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev10_BankAccount\obj\Debug\net10.0\Odev10_BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev10_BankAccount\obj\Debug\net10.0\Odev10_BankAccount.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev10_BankAccount\obj\Debug\net10.0\Odev10_BankAccount.AssemblyInfo.cs
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev10_BankAccount\obj\Debug\net10.0\Odev10_BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev10_BankAccount\obj\Debug\net10.0\Odev10_BankAccount.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev10_BankAccount\obj\Debug\net10.0\refint\Odev10_BankAccount.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev10_BankAccount\obj\Debug\net10.0\Odev10_BankAccount.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev10_BankAccount\obj\Debug\net10.0\Odev10_BankAccount.genruntimeconfig.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev10_BankAccount\obj\Debug\net10.0\ref\Odev10_BankAccount.dll

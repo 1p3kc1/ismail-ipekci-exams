@@ -1,0 +1,14 @@
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev08_InventoryItem\bin\Debug\net10.0\Odev08_InventoryItem.exe
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev08_InventoryItem\bin\Debug\net10.0\Odev08_InventoryItem.deps.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev08_InventoryItem\bin\Debug\net10.0\Odev08_InventoryItem.runtimeconfig.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev08_InventoryItem\bin\Debug\net10.0\Odev08_InventoryItem.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev08_InventoryItem\bin\Debug\net10.0\Odev08_InventoryItem.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev08_InventoryItem\obj\Debug\net10.0\Odev08_InventoryItem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev08_InventoryItem\obj\Debug\net10.0\Odev08_InventoryItem.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev08_InventoryItem\obj\Debug\net10.0\Odev08_InventoryItem.AssemblyInfo.cs
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev08_InventoryItem\obj\Debug\net10.0\Odev08_InventoryItem.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev08_InventoryItem\obj\Debug\net10.0\Odev08_InventoryItem.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev08_InventoryItem\obj\Debug\net10.0\refint\Odev08_InventoryItem.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev08_InventoryItem\obj\Debug\net10.0\Odev08_InventoryItem.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev08_InventoryItem\obj\Debug\net10.0\Odev08_InventoryItem.genruntimeconfig.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev08_InventoryItem\obj\Debug\net10.0\ref\Odev08_InventoryItem.dll

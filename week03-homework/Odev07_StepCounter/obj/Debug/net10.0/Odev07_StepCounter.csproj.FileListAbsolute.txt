@@ -1,0 +1,14 @@
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev07_StepCounter\bin\Debug\net10.0\Odev07_StepCounter.exe
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev07_StepCounter\bin\Debug\net10.0\Odev07_StepCounter.deps.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev07_StepCounter\bin\Debug\net10.0\Odev07_StepCounter.runtimeconfig.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev07_StepCounter\bin\Debug\net10.0\Odev07_StepCounter.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev07_StepCounter\bin\Debug\net10.0\Odev07_StepCounter.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev07_StepCounter\obj\Debug\net10.0\Odev07_StepCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev07_StepCounter\obj\Debug\net10.0\Odev07_StepCounter.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev07_StepCounter\obj\Debug\net10.0\Odev07_StepCounter.AssemblyInfo.cs
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev07_StepCounter\obj\Debug\net10.0\Odev07_StepCounter.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev07_StepCounter\obj\Debug\net10.0\Odev07_StepCounter.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev07_StepCounter\obj\Debug\net10.0\refint\Odev07_StepCounter.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev07_StepCounter\obj\Debug\net10.0\Odev07_StepCounter.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev07_StepCounter\obj\Debug\net10.0\Odev07_StepCounter.genruntimeconfig.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev07_StepCounter\obj\Debug\net10.0\ref\Odev07_StepCounter.dll

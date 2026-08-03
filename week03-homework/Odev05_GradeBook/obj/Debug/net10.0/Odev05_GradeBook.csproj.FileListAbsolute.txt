@@ -1,0 +1,14 @@
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev05_GradeBook\bin\Debug\net10.0\Odev05_GradeBook.exe
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev05_GradeBook\bin\Debug\net10.0\Odev05_GradeBook.deps.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev05_GradeBook\bin\Debug\net10.0\Odev05_GradeBook.runtimeconfig.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev05_GradeBook\bin\Debug\net10.0\Odev05_GradeBook.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev05_GradeBook\bin\Debug\net10.0\Odev05_GradeBook.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev05_GradeBook\obj\Debug\net10.0\Odev05_GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev05_GradeBook\obj\Debug\net10.0\Odev05_GradeBook.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev05_GradeBook\obj\Debug\net10.0\Odev05_GradeBook.AssemblyInfo.cs
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev05_GradeBook\obj\Debug\net10.0\Odev05_GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev05_GradeBook\obj\Debug\net10.0\Odev05_GradeBook.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev05_GradeBook\obj\Debug\net10.0\refint\Odev05_GradeBook.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev05_GradeBook\obj\Debug\net10.0\Odev05_GradeBook.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev05_GradeBook\obj\Debug\net10.0\Odev05_GradeBook.genruntimeconfig.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev05_GradeBook\obj\Debug\net10.0\ref\Odev05_GradeBook.dll

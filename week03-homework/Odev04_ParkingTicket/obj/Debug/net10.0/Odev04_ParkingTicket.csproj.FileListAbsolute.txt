@@ -1,0 +1,14 @@
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev04_ParkingTicket\bin\Debug\net10.0\Odev04_ParkingTicket.exe
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev04_ParkingTicket\bin\Debug\net10.0\Odev04_ParkingTicket.deps.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev04_ParkingTicket\bin\Debug\net10.0\Odev04_ParkingTicket.runtimeconfig.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev04_ParkingTicket\bin\Debug\net10.0\Odev04_ParkingTicket.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev04_ParkingTicket\bin\Debug\net10.0\Odev04_ParkingTicket.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev04_ParkingTicket\obj\Debug\net10.0\Odev04_ParkingTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev04_ParkingTicket\obj\Debug\net10.0\Odev04_ParkingTicket.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev04_ParkingTicket\obj\Debug\net10.0\Odev04_ParkingTicket.AssemblyInfo.cs
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev04_ParkingTicket\obj\Debug\net10.0\Odev04_ParkingTicket.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev04_ParkingTicket\obj\Debug\net10.0\Odev04_ParkingTicket.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev04_ParkingTicket\obj\Debug\net10.0\refint\Odev04_ParkingTicket.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev04_ParkingTicket\obj\Debug\net10.0\Odev04_ParkingTicket.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev04_ParkingTicket\obj\Debug\net10.0\Odev04_ParkingTicket.genruntimeconfig.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev04_ParkingTicket\obj\Debug\net10.0\ref\Odev04_ParkingTicket.dll

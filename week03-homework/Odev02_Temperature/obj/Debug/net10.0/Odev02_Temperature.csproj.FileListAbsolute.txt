@@ -1,0 +1,14 @@
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev02_Temperature\bin\Debug\net10.0\Odev02_Temperature.exe
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev02_Temperature\bin\Debug\net10.0\Odev02_Temperature.deps.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev02_Temperature\bin\Debug\net10.0\Odev02_Temperature.runtimeconfig.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev02_Temperature\bin\Debug\net10.0\Odev02_Temperature.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev02_Temperature\bin\Debug\net10.0\Odev02_Temperature.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev02_Temperature\obj\Debug\net10.0\Odev02_Temperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev02_Temperature\obj\Debug\net10.0\Odev02_Temperature.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev02_Temperature\obj\Debug\net10.0\Odev02_Temperature.AssemblyInfo.cs
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev02_Temperature\obj\Debug\net10.0\Odev02_Temperature.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev02_Temperature\obj\Debug\net10.0\Odev02_Temperature.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev02_Temperature\obj\Debug\net10.0\refint\Odev02_Temperature.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev02_Temperature\obj\Debug\net10.0\Odev02_Temperature.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev02_Temperature\obj\Debug\net10.0\Odev02_Temperature.genruntimeconfig.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev02_Temperature\obj\Debug\net10.0\ref\Odev02_Temperature.dll

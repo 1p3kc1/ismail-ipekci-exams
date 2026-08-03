@@ -1,0 +1,14 @@
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev16_MenuItem\bin\Debug\net10.0\Odev16_MenuItem.exe
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev16_MenuItem\bin\Debug\net10.0\Odev16_MenuItem.deps.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev16_MenuItem\bin\Debug\net10.0\Odev16_MenuItem.runtimeconfig.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev16_MenuItem\bin\Debug\net10.0\Odev16_MenuItem.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev16_MenuItem\bin\Debug\net10.0\Odev16_MenuItem.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev16_MenuItem\obj\Debug\net10.0\Odev16_MenuItem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev16_MenuItem\obj\Debug\net10.0\Odev16_MenuItem.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev16_MenuItem\obj\Debug\net10.0\Odev16_MenuItem.AssemblyInfo.cs
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev16_MenuItem\obj\Debug\net10.0\Odev16_MenuItem.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev16_MenuItem\obj\Debug\net10.0\Odev16_MenuItem.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev16_MenuItem\obj\Debug\net10.0\refint\Odev16_MenuItem.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev16_MenuItem\obj\Debug\net10.0\Odev16_MenuItem.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev16_MenuItem\obj\Debug\net10.0\Odev16_MenuItem.genruntimeconfig.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev16_MenuItem\obj\Debug\net10.0\ref\Odev16_MenuItem.dll

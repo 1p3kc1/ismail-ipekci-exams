@@ -1,0 +1,14 @@
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev23_Constructor_Category\bin\Debug\net10.0\Odev23_Constructor_Category.exe
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev23_Constructor_Category\bin\Debug\net10.0\Odev23_Constructor_Category.deps.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev23_Constructor_Category\bin\Debug\net10.0\Odev23_Constructor_Category.runtimeconfig.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev23_Constructor_Category\bin\Debug\net10.0\Odev23_Constructor_Category.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev23_Constructor_Category\bin\Debug\net10.0\Odev23_Constructor_Category.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev23_Constructor_Category\obj\Debug\net10.0\Odev23_Constructor_Category.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev23_Constructor_Category\obj\Debug\net10.0\Odev23_Constructor_Category.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev23_Constructor_Category\obj\Debug\net10.0\Odev23_Constructor_Category.AssemblyInfo.cs
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev23_Constructor_Category\obj\Debug\net10.0\Odev23_Constructor_Category.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev23_Constructor_Category\obj\Debug\net10.0\Odev23_Constructor_Category.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev23_Constructor_Category\obj\Debug\net10.0\refint\Odev23_Constructor_Category.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev23_Constructor_Category\obj\Debug\net10.0\Odev23_Constructor_Category.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev23_Constructor_Category\obj\Debug\net10.0\Odev23_Constructor_Category.genruntimeconfig.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev23_Constructor_Category\obj\Debug\net10.0\ref\Odev23_Constructor_Category.dll

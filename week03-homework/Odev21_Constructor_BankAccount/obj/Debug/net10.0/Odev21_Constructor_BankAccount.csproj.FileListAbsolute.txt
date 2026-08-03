@@ -1,0 +1,14 @@
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev21_Constructor_BankAccount\bin\Debug\net10.0\Odev21_Constructor_BankAccount.exe
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev21_Constructor_BankAccount\bin\Debug\net10.0\Odev21_Constructor_BankAccount.deps.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev21_Constructor_BankAccount\bin\Debug\net10.0\Odev21_Constructor_BankAccount.runtimeconfig.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev21_Constructor_BankAccount\bin\Debug\net10.0\Odev21_Constructor_BankAccount.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev21_Constructor_BankAccount\bin\Debug\net10.0\Odev21_Constructor_BankAccount.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev21_Constructor_BankAccount\obj\Debug\net10.0\Odev21_Constructor_BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev21_Constructor_BankAccount\obj\Debug\net10.0\Odev21_Constructor_BankAccount.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev21_Constructor_BankAccount\obj\Debug\net10.0\Odev21_Constructor_BankAccount.AssemblyInfo.cs
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev21_Constructor_BankAccount\obj\Debug\net10.0\Odev21_Constructor_BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev21_Constructor_BankAccount\obj\Debug\net10.0\Odev21_Constructor_BankAccount.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev21_Constructor_BankAccount\obj\Debug\net10.0\refint\Odev21_Constructor_BankAccount.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev21_Constructor_BankAccount\obj\Debug\net10.0\Odev21_Constructor_BankAccount.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev21_Constructor_BankAccount\obj\Debug\net10.0\Odev21_Constructor_BankAccount.genruntimeconfig.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev21_Constructor_BankAccount\obj\Debug\net10.0\ref\Odev21_Constructor_BankAccount.dll

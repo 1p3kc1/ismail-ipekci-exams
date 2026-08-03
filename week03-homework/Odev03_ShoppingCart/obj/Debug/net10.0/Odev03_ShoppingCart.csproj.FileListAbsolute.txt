@@ -1,0 +1,14 @@
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev03_ShoppingCart\bin\Debug\net10.0\Odev03_ShoppingCart.exe
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev03_ShoppingCart\bin\Debug\net10.0\Odev03_ShoppingCart.deps.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev03_ShoppingCart\bin\Debug\net10.0\Odev03_ShoppingCart.runtimeconfig.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev03_ShoppingCart\bin\Debug\net10.0\Odev03_ShoppingCart.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev03_ShoppingCart\bin\Debug\net10.0\Odev03_ShoppingCart.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev03_ShoppingCart\obj\Debug\net10.0\Odev03_ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev03_ShoppingCart\obj\Debug\net10.0\Odev03_ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev03_ShoppingCart\obj\Debug\net10.0\Odev03_ShoppingCart.AssemblyInfo.cs
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev03_ShoppingCart\obj\Debug\net10.0\Odev03_ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev03_ShoppingCart\obj\Debug\net10.0\Odev03_ShoppingCart.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev03_ShoppingCart\obj\Debug\net10.0\refint\Odev03_ShoppingCart.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev03_ShoppingCart\obj\Debug\net10.0\Odev03_ShoppingCart.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev03_ShoppingCart\obj\Debug\net10.0\Odev03_ShoppingCart.genruntimeconfig.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev03_ShoppingCart\obj\Debug\net10.0\ref\Odev03_ShoppingCart.dll
