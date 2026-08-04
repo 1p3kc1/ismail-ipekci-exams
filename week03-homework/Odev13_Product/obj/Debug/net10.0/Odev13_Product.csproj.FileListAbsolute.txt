@@ -1,0 +1,14 @@
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev13_Product\bin\Debug\net10.0\Odev13_Product.exe
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev13_Product\bin\Debug\net10.0\Odev13_Product.deps.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev13_Product\bin\Debug\net10.0\Odev13_Product.runtimeconfig.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev13_Product\bin\Debug\net10.0\Odev13_Product.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev13_Product\bin\Debug\net10.0\Odev13_Product.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev13_Product\obj\Debug\net10.0\Odev13_Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev13_Product\obj\Debug\net10.0\Odev13_Product.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev13_Product\obj\Debug\net10.0\Odev13_Product.AssemblyInfo.cs
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev13_Product\obj\Debug\net10.0\Odev13_Product.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev13_Product\obj\Debug\net10.0\Odev13_Product.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev13_Product\obj\Debug\net10.0\refint\Odev13_Product.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev13_Product\obj\Debug\net10.0\Odev13_Product.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev13_Product\obj\Debug\net10.0\Odev13_Product.genruntimeconfig.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev13_Product\obj\Debug\net10.0\ref\Odev13_Product.dll

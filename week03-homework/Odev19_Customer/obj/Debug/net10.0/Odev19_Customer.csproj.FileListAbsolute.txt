@@ -1,0 +1,14 @@
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev19_Customer\bin\Debug\net10.0\Odev19_Customer.exe
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev19_Customer\bin\Debug\net10.0\Odev19_Customer.deps.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev19_Customer\bin\Debug\net10.0\Odev19_Customer.runtimeconfig.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev19_Customer\bin\Debug\net10.0\Odev19_Customer.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev19_Customer\bin\Debug\net10.0\Odev19_Customer.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev19_Customer\obj\Debug\net10.0\Odev19_Customer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev19_Customer\obj\Debug\net10.0\Odev19_Customer.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev19_Customer\obj\Debug\net10.0\Odev19_Customer.AssemblyInfo.cs
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev19_Customer\obj\Debug\net10.0\Odev19_Customer.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev19_Customer\obj\Debug\net10.0\Odev19_Customer.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev19_Customer\obj\Debug\net10.0\refint\Odev19_Customer.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev19_Customer\obj\Debug\net10.0\Odev19_Customer.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev19_Customer\obj\Debug\net10.0\Odev19_Customer.genruntimeconfig.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev19_Customer\obj\Debug\net10.0\ref\Odev19_Customer.dll

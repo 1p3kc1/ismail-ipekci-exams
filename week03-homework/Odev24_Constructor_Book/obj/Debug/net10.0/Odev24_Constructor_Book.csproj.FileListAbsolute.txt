@@ -1,0 +1,14 @@
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev24_Constructor_Book\bin\Debug\net10.0\Odev24_Constructor_Book.exe
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev24_Constructor_Book\bin\Debug\net10.0\Odev24_Constructor_Book.deps.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev24_Constructor_Book\bin\Debug\net10.0\Odev24_Constructor_Book.runtimeconfig.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev24_Constructor_Book\bin\Debug\net10.0\Odev24_Constructor_Book.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev24_Constructor_Book\bin\Debug\net10.0\Odev24_Constructor_Book.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev24_Constructor_Book\obj\Debug\net10.0\Odev24_Constructor_Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev24_Constructor_Book\obj\Debug\net10.0\Odev24_Constructor_Book.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev24_Constructor_Book\obj\Debug\net10.0\Odev24_Constructor_Book.AssemblyInfo.cs
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev24_Constructor_Book\obj\Debug\net10.0\Odev24_Constructor_Book.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev24_Constructor_Book\obj\Debug\net10.0\Odev24_Constructor_Book.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev24_Constructor_Book\obj\Debug\net10.0\refint\Odev24_Constructor_Book.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev24_Constructor_Book\obj\Debug\net10.0\Odev24_Constructor_Book.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev24_Constructor_Book\obj\Debug\net10.0\Odev24_Constructor_Book.genruntimeconfig.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev24_Constructor_Book\obj\Debug\net10.0\ref\Odev24_Constructor_Book.dll

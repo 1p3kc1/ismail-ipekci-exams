@@ -1,0 +1,14 @@
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev17_Patient\bin\Debug\net10.0\Odev17_Patient.exe
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev17_Patient\bin\Debug\net10.0\Odev17_Patient.deps.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev17_Patient\bin\Debug\net10.0\Odev17_Patient.runtimeconfig.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev17_Patient\bin\Debug\net10.0\Odev17_Patient.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev17_Patient\bin\Debug\net10.0\Odev17_Patient.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev17_Patient\obj\Debug\net10.0\Odev17_Patient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev17_Patient\obj\Debug\net10.0\Odev17_Patient.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev17_Patient\obj\Debug\net10.0\Odev17_Patient.AssemblyInfo.cs
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev17_Patient\obj\Debug\net10.0\Odev17_Patient.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev17_Patient\obj\Debug\net10.0\Odev17_Patient.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev17_Patient\obj\Debug\net10.0\refint\Odev17_Patient.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev17_Patient\obj\Debug\net10.0\Odev17_Patient.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev17_Patient\obj\Debug\net10.0\Odev17_Patient.genruntimeconfig.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev17_Patient\obj\Debug\net10.0\ref\Odev17_Patient.dll

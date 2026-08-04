@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Odev06_WaterMeter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b69ed3c39cf3185df170364b3fc5c56e3aa84712")]
 [assembly: System.Reflection.AssemblyProductAttribute("Odev06_WaterMeter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Odev06_WaterMeter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

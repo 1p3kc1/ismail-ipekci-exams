@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\Odev06_WaterMeter\\Odev06_WaterMeter.csproj",
+      "projectUniqueName": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\week03-homework\\Odev06_WaterMeter\\Odev06_WaterMeter.csproj",
       "projectName": "Odev06_WaterMeter",
-      "projectPath": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\Odev06_WaterMeter\\Odev06_WaterMeter.csproj",
+      "projectPath": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\week03-homework\\Odev06_WaterMeter\\Odev06_WaterMeter.csproj",
       "packagesPath": "C:\\Users\\ismai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\Odev06_WaterMeter\\obj\\",
+      "outputPath": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\week03-homework\\Odev06_WaterMeter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ismai\\AppData\\Roaming\\NuGet\\NuGet.Config",

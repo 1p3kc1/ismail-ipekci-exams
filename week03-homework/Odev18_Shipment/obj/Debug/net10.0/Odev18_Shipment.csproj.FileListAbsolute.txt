@@ -1,0 +1,14 @@
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev18_Shipment\bin\Debug\net10.0\Odev18_Shipment.exe
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev18_Shipment\bin\Debug\net10.0\Odev18_Shipment.deps.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev18_Shipment\bin\Debug\net10.0\Odev18_Shipment.runtimeconfig.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev18_Shipment\bin\Debug\net10.0\Odev18_Shipment.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev18_Shipment\bin\Debug\net10.0\Odev18_Shipment.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev18_Shipment\obj\Debug\net10.0\Odev18_Shipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev18_Shipment\obj\Debug\net10.0\Odev18_Shipment.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev18_Shipment\obj\Debug\net10.0\Odev18_Shipment.AssemblyInfo.cs
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev18_Shipment\obj\Debug\net10.0\Odev18_Shipment.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev18_Shipment\obj\Debug\net10.0\Odev18_Shipment.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev18_Shipment\obj\Debug\net10.0\refint\Odev18_Shipment.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev18_Shipment\obj\Debug\net10.0\Odev18_Shipment.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev18_Shipment\obj\Debug\net10.0\Odev18_Shipment.genruntimeconfig.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev18_Shipment\obj\Debug\net10.0\ref\Odev18_Shipment.dll
