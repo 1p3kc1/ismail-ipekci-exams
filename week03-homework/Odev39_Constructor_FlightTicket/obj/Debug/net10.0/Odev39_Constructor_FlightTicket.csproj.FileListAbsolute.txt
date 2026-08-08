@@ -1,0 +1,15 @@
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev39_Constructor_FlightTicket\bin\Debug\net10.0\Odev39_Constructor_FlightTicket.exe
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev39_Constructor_FlightTicket\bin\Debug\net10.0\Odev39_Constructor_FlightTicket.deps.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev39_Constructor_FlightTicket\bin\Debug\net10.0\Odev39_Constructor_FlightTicket.runtimeconfig.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev39_Constructor_FlightTicket\bin\Debug\net10.0\Odev39_Constructor_FlightTicket.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev39_Constructor_FlightTicket\bin\Debug\net10.0\Odev39_Constructor_FlightTicket.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev39_Constructor_FlightTicket\obj\Debug\net10.0\Odev39_Constructor_FlightTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev39_Constructor_FlightTicket\obj\Debug\net10.0\Odev39_Constructor_FlightTicket.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev39_Constructor_FlightTicket\obj\Debug\net10.0\Odev39_Constructor_FlightTicket.AssemblyInfo.cs
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev39_Constructor_FlightTicket\obj\Debug\net10.0\Odev39_Constructor_FlightTicket.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev39_Constructor_FlightTicket\obj\Debug\net10.0\Odev39_Constructor_FlightTicket.sourcelink.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev39_Constructor_FlightTicket\obj\Debug\net10.0\Odev39_Constructor_FlightTicket.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev39_Constructor_FlightTicket\obj\Debug\net10.0\refint\Odev39_Constructor_FlightTicket.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev39_Constructor_FlightTicket\obj\Debug\net10.0\Odev39_Constructor_FlightTicket.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev39_Constructor_FlightTicket\obj\Debug\net10.0\Odev39_Constructor_FlightTicket.genruntimeconfig.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev39_Constructor_FlightTicket\obj\Debug\net10.0\ref\Odev39_Constructor_FlightTicket.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\Odev39_Constructor_FlightTicket\\Odev39_Constructor_FlightTicket.csproj": {}
+    "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\week03-homework\\Odev39_Constructor_FlightTicket\\Odev39_Constructor_FlightTicket.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\Odev39_Constructor_FlightTicket\\Odev39_Constructor_FlightTicket.csproj": {
+    "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\week03-homework\\Odev39_Constructor_FlightTicket\\Odev39_Constructor_FlightTicket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\Odev39_Constructor_FlightTicket\\Odev39_Constructor_FlightTicket.csproj",
+        "projectUniqueName": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\week03-homework\\Odev39_Constructor_FlightTicket\\Odev39_Constructor_FlightTicket.csproj",
         "projectName": "Odev39_Constructor_FlightTicket",
-        "projectPath": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\Odev39_Constructor_FlightTicket\\Odev39_Constructor_FlightTicket.csproj",
+        "projectPath": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\week03-homework\\Odev39_Constructor_FlightTicket\\Odev39_Constructor_FlightTicket.csproj",
         "packagesPath": "C:\\Users\\ismai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\Odev39_Constructor_FlightTicket\\obj\\",
+        "outputPath": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\week03-homework\\Odev39_Constructor_FlightTicket\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ismai\\AppData\\Roaming\\NuGet\\NuGet.Config",

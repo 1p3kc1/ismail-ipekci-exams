@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\Odev34_Constructor_Invoice\\Odev34_Constructor_Invoice.csproj": {}
+    "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\week03-homework\\Odev34_Constructor_Invoice\\Odev34_Constructor_Invoice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\Odev34_Constructor_Invoice\\Odev34_Constructor_Invoice.csproj": {
+    "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\week03-homework\\Odev34_Constructor_Invoice\\Odev34_Constructor_Invoice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\Odev34_Constructor_Invoice\\Odev34_Constructor_Invoice.csproj",
+        "projectUniqueName": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\week03-homework\\Odev34_Constructor_Invoice\\Odev34_Constructor_Invoice.csproj",
         "projectName": "Odev34_Constructor_Invoice",
-        "projectPath": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\Odev34_Constructor_Invoice\\Odev34_Constructor_Invoice.csproj",
+        "projectPath": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\week03-homework\\Odev34_Constructor_Invoice\\Odev34_Constructor_Invoice.csproj",
         "packagesPath": "C:\\Users\\ismai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\Odev34_Constructor_Invoice\\obj\\",
+        "outputPath": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\week03-homework\\Odev34_Constructor_Invoice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ismai\\AppData\\Roaming\\NuGet\\NuGet.Config",

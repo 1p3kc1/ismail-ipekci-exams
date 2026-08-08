@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Odev39_Constructor_FlightTicket")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ddebb38f41dff9a3937b7498768eb2bd5fae2f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Odev39_Constructor_FlightTicket")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Odev39_Constructor_FlightTicket")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

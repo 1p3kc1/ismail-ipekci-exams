@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\Odev37_Constructor_CreditCard\\Odev37_Constructor_CreditCard.csproj",
+      "projectUniqueName": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\week03-homework\\Odev37_Constructor_CreditCard\\Odev37_Constructor_CreditCard.csproj",
       "projectName": "Odev37_Constructor_CreditCard",
-      "projectPath": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\Odev37_Constructor_CreditCard\\Odev37_Constructor_CreditCard.csproj",
+      "projectPath": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\week03-homework\\Odev37_Constructor_CreditCard\\Odev37_Constructor_CreditCard.csproj",
       "packagesPath": "C:\\Users\\ismai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\Odev37_Constructor_CreditCard\\obj\\",
+      "outputPath": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\week03-homework\\Odev37_Constructor_CreditCard\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ismai\\AppData\\Roaming\\NuGet\\NuGet.Config",

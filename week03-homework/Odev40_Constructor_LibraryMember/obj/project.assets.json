@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\Odev40_Constructor_LibraryMember\\Odev40_Constructor_LibraryMember.csproj",
+      "projectUniqueName": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\week03-homework\\Odev40_Constructor_LibraryMember\\Odev40_Constructor_LibraryMember.csproj",
       "projectName": "Odev40_Constructor_LibraryMember",
-      "projectPath": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\Odev40_Constructor_LibraryMember\\Odev40_Constructor_LibraryMember.csproj",
+      "projectPath": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\week03-homework\\Odev40_Constructor_LibraryMember\\Odev40_Constructor_LibraryMember.csproj",
       "packagesPath": "C:\\Users\\ismai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\Odev40_Constructor_LibraryMember\\obj\\",
+      "outputPath": "C:\\Users\\ismai\\Desktop\\ismail-ipekci-exams\\week03-homework\\Odev40_Constructor_LibraryMember\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ismai\\AppData\\Roaming\\NuGet\\NuGet.Config",
