@@ -1,0 +1,14 @@
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev36_Constructor_Pet\bin\Debug\net10.0\Odev36_Constructor_Pet.exe
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev36_Constructor_Pet\bin\Debug\net10.0\Odev36_Constructor_Pet.deps.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev36_Constructor_Pet\bin\Debug\net10.0\Odev36_Constructor_Pet.runtimeconfig.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev36_Constructor_Pet\bin\Debug\net10.0\Odev36_Constructor_Pet.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev36_Constructor_Pet\bin\Debug\net10.0\Odev36_Constructor_Pet.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev36_Constructor_Pet\obj\Debug\net10.0\Odev36_Constructor_Pet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev36_Constructor_Pet\obj\Debug\net10.0\Odev36_Constructor_Pet.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev36_Constructor_Pet\obj\Debug\net10.0\Odev36_Constructor_Pet.AssemblyInfo.cs
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev36_Constructor_Pet\obj\Debug\net10.0\Odev36_Constructor_Pet.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev36_Constructor_Pet\obj\Debug\net10.0\Odev36_Constructor_Pet.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev36_Constructor_Pet\obj\Debug\net10.0\refint\Odev36_Constructor_Pet.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev36_Constructor_Pet\obj\Debug\net10.0\Odev36_Constructor_Pet.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev36_Constructor_Pet\obj\Debug\net10.0\Odev36_Constructor_Pet.genruntimeconfig.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev36_Constructor_Pet\obj\Debug\net10.0\ref\Odev36_Constructor_Pet.dll

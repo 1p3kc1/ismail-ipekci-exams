@@ -1,0 +1,14 @@
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev33_Constructor_Athlete\bin\Debug\net10.0\Odev33_Constructor_Athlete.exe
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev33_Constructor_Athlete\bin\Debug\net10.0\Odev33_Constructor_Athlete.deps.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev33_Constructor_Athlete\bin\Debug\net10.0\Odev33_Constructor_Athlete.runtimeconfig.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev33_Constructor_Athlete\bin\Debug\net10.0\Odev33_Constructor_Athlete.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev33_Constructor_Athlete\bin\Debug\net10.0\Odev33_Constructor_Athlete.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev33_Constructor_Athlete\obj\Debug\net10.0\Odev33_Constructor_Athlete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev33_Constructor_Athlete\obj\Debug\net10.0\Odev33_Constructor_Athlete.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev33_Constructor_Athlete\obj\Debug\net10.0\Odev33_Constructor_Athlete.AssemblyInfo.cs
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev33_Constructor_Athlete\obj\Debug\net10.0\Odev33_Constructor_Athlete.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev33_Constructor_Athlete\obj\Debug\net10.0\Odev33_Constructor_Athlete.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev33_Constructor_Athlete\obj\Debug\net10.0\refint\Odev33_Constructor_Athlete.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev33_Constructor_Athlete\obj\Debug\net10.0\Odev33_Constructor_Athlete.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev33_Constructor_Athlete\obj\Debug\net10.0\Odev33_Constructor_Athlete.genruntimeconfig.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\Odev33_Constructor_Athlete\obj\Debug\net10.0\ref\Odev33_Constructor_Athlete.dll
