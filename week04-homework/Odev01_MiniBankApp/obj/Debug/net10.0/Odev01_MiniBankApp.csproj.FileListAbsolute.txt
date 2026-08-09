@@ -1,0 +1,15 @@
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev01_MiniBankApp\bin\Debug\net10.0\Odev01_MiniBankApp.exe
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev01_MiniBankApp\bin\Debug\net10.0\Odev01_MiniBankApp.deps.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev01_MiniBankApp\bin\Debug\net10.0\Odev01_MiniBankApp.runtimeconfig.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev01_MiniBankApp\bin\Debug\net10.0\Odev01_MiniBankApp.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev01_MiniBankApp\bin\Debug\net10.0\Odev01_MiniBankApp.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev01_MiniBankApp\obj\Debug\net10.0\Odev01_MiniBankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev01_MiniBankApp\obj\Debug\net10.0\Odev01_MiniBankApp.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev01_MiniBankApp\obj\Debug\net10.0\Odev01_MiniBankApp.AssemblyInfo.cs
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev01_MiniBankApp\obj\Debug\net10.0\Odev01_MiniBankApp.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev01_MiniBankApp\obj\Debug\net10.0\Odev01_MiniBankApp.sourcelink.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev01_MiniBankApp\obj\Debug\net10.0\Odev01_MiniBankApp.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev01_MiniBankApp\obj\Debug\net10.0\refint\Odev01_MiniBankApp.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev01_MiniBankApp\obj\Debug\net10.0\Odev01_MiniBankApp.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev01_MiniBankApp\obj\Debug\net10.0\Odev01_MiniBankApp.genruntimeconfig.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev01_MiniBankApp\obj\Debug\net10.0\ref\Odev01_MiniBankApp.dll
