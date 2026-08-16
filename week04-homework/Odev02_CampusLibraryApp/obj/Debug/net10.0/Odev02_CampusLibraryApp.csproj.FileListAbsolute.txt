@@ -1,0 +1,15 @@
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev02_CampusLibraryApp\bin\Debug\net10.0\Odev02_CampusLibraryApp.exe
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev02_CampusLibraryApp\bin\Debug\net10.0\Odev02_CampusLibraryApp.deps.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev02_CampusLibraryApp\bin\Debug\net10.0\Odev02_CampusLibraryApp.runtimeconfig.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev02_CampusLibraryApp\bin\Debug\net10.0\Odev02_CampusLibraryApp.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev02_CampusLibraryApp\bin\Debug\net10.0\Odev02_CampusLibraryApp.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev02_CampusLibraryApp\obj\Debug\net10.0\Odev02_CampusLibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev02_CampusLibraryApp\obj\Debug\net10.0\Odev02_CampusLibraryApp.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev02_CampusLibraryApp\obj\Debug\net10.0\Odev02_CampusLibraryApp.AssemblyInfo.cs
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev02_CampusLibraryApp\obj\Debug\net10.0\Odev02_CampusLibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev02_CampusLibraryApp\obj\Debug\net10.0\Odev02_CampusLibraryApp.sourcelink.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev02_CampusLibraryApp\obj\Debug\net10.0\Odev02_CampusLibraryApp.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev02_CampusLibraryApp\obj\Debug\net10.0\refint\Odev02_CampusLibraryApp.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev02_CampusLibraryApp\obj\Debug\net10.0\Odev02_CampusLibraryApp.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev02_CampusLibraryApp\obj\Debug\net10.0\Odev02_CampusLibraryApp.genruntimeconfig.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week04-homework\Odev02_CampusLibraryApp\obj\Debug\net10.0\ref\Odev02_CampusLibraryApp.dll

@@ -1,0 +1,15 @@
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev40_Constructor_LibraryMember\bin\Debug\net10.0\Odev40_Constructor_LibraryMember.exe
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev40_Constructor_LibraryMember\bin\Debug\net10.0\Odev40_Constructor_LibraryMember.deps.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev40_Constructor_LibraryMember\bin\Debug\net10.0\Odev40_Constructor_LibraryMember.runtimeconfig.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev40_Constructor_LibraryMember\bin\Debug\net10.0\Odev40_Constructor_LibraryMember.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev40_Constructor_LibraryMember\bin\Debug\net10.0\Odev40_Constructor_LibraryMember.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev40_Constructor_LibraryMember\obj\Debug\net10.0\Odev40_Constructor_LibraryMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev40_Constructor_LibraryMember\obj\Debug\net10.0\Odev40_Constructor_LibraryMember.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev40_Constructor_LibraryMember\obj\Debug\net10.0\Odev40_Constructor_LibraryMember.AssemblyInfo.cs
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev40_Constructor_LibraryMember\obj\Debug\net10.0\Odev40_Constructor_LibraryMember.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev40_Constructor_LibraryMember\obj\Debug\net10.0\Odev40_Constructor_LibraryMember.sourcelink.json
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev40_Constructor_LibraryMember\obj\Debug\net10.0\Odev40_Constructor_LibraryMember.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev40_Constructor_LibraryMember\obj\Debug\net10.0\refint\Odev40_Constructor_LibraryMember.dll
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev40_Constructor_LibraryMember\obj\Debug\net10.0\Odev40_Constructor_LibraryMember.pdb
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev40_Constructor_LibraryMember\obj\Debug\net10.0\Odev40_Constructor_LibraryMember.genruntimeconfig.cache
+C:\Users\ismai\Desktop\ismail-ipekci-exams\week03-homework\Odev40_Constructor_LibraryMember\obj\Debug\net10.0\ref\Odev40_Constructor_LibraryMember.dll
