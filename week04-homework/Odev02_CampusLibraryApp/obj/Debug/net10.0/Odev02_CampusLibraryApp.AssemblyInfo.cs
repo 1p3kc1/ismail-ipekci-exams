@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Odev02_CampusLibraryApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49c05b7ade59663be0c9795c2a1fc8b40ac012df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdec772854e27444fc9085ab41621d3771e3566e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Odev02_CampusLibraryApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Odev02_CampusLibraryApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
