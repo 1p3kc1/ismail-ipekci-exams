@@ -243,6 +243,65 @@ FROM Shipment s
 WHERE DeliverDate IS NULL;
 
 --31
-SELECT 
-*
-FROM 
+SELECT
+    s.ShipmentId AS SevkiyatId,
+    s.OriginCity AS CikisSehri,
+    s.DestCity AS VarisSehri,
+    s.ShipDate AS SevkTarihi,
+    s.DeliverDate AS TeslimTarihi,
+    s.Status AS Durum
+FROM Shipment s
+WHERE DeliverDate IS NOT NULL
+ORDER BY DeliverDate DESC;
+
+--32
+SELECT
+    s.ShipmentId AS SevkiyatId,
+    s.ShipDate AS SevkTarihi,
+    s.OriginCity AS CikisSehri,
+    s.DestCity AS VarisSehri,
+    s.Status AS Durum
+FROM Shipment s
+WHERE strftime('%Y', ShipDate) = '2026'
+ORDER BY ShipDate ASC;
+
+--33 
+SELECT
+    s.ShipmentId AS SevkiyatId,
+    s.ShipDate AS SevkTarihi,
+    s.OriginCity AS CikisSehri,
+    s.DestCity AS VarisSehri,
+    s.Status AS Durum
+FROM Shipment s
+WHERE strftime('%m', ShipDate) = '08'
+ORDER BY ShipDate ASC;
+
+--34
+SELECT
+    s.ShipmentId AS SevkiyatId,
+    s.ShipDate AS SevkTarihi,
+    s.OriginCity AS CikisSehri,
+    s.DestCity AS VarisSehri,
+    s.Status AS Durum
+FROM Shipment s
+WHERE ShipDate BETWEEN '2025-01-01' AND '2025-06-30'
+ORDER BY ShipDate ASC;
+
+--35
+SELECT
+    s.ShipmentId AS SevkiyatId,
+    s.OriginCity AS CikisSehri,
+    s.DestCity AS VarisSehri,
+    s.Freight AS Navlun,
+    s.Status AS Durum
+FROM Shipment s
+ORDER BY Freight DESC;
+
+--36
+SELECT
+    d.FirstName AS Ad,
+    d.LastName AS Soyad,
+    d.LicenseClass AS EhliyetSinifi,
+    d.Phone AS Telefon
+FROM Driver d
+ORDER BY LastName ASC, FirstName ASC;
