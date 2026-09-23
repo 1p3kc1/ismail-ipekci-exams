@@ -1,0 +1,195 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Event Manager- @ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.8/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/style.css">
+
+</head>
+
+<body>
+
+   <nav class="navbar navbar-expand-lg navbar-light custom-navbar">
+    <div class="container">
+
+        <a class="navbar-brand" asp-controller="Home" asp-action="Index">
+            <span class="logo-event">EVENT</span>
+            <span class="logo-manager">MANAGER</span>
+        </a>
+
+        <button class="navbar-toggler" type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#mainNavbar"
+                aria-controls="mainNavbar"
+                aria-expanded="false"
+                aria-label="Menüyü aç">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="mainNavbar">
+
+            <ul class="navbar-nav mx-auto">
+                <li class="nav-item">
+                    <a  href="/"  class="nav-link @(ViewContext.RouteData.Values["action"]?.ToString()=="Index" ? "active" : "")">
+                        Ana Sayfa
+                    </a>
+                </li>
+
+            
+                <li class="nav-item">
+                    <a href="/home/Consultants" class="nav-link @(ViewContext.RouteData.Values["action"]?.ToString()=="Consultants" ? "active" : "")">
+                        Danışmanlar
+                    </a>
+                </li>
+            </ul>
+
+            <a href="/home/booking" class="btn booking-btn @(ViewContext.RouteData.Values["action"]?.ToString()=="Booking" ? "active" : "")">
+                Rezervasyon Yap
+            </a>
+
+        </div>
+    </div>
+</nav>
+
+@RenderBody()
+
+
+<footer class="footer-section">
+
+    <div class="container">
+
+        <div class="row g-4">
+
+
+            <div class="col-lg-4 col-md-6">
+
+                <a class="footer-logo" href="/home">
+                    <span class="footer-event">EVENT</span>
+                    <span class="footer-manager">MANAGER</span>
+                </a>
+
+                <p class="footer-text">
+                    Hayalinizdeki etkinlikleri profesyonel ekibimizle
+                    planlıyor, unutulmaz anlara dönüştürüyoruz.
+                </p>
+
+            </div>
+
+
+            <div class="col-lg-2 col-md-6">
+
+                <h5 class="footer-title">
+                    Hızlı Bağlantılar
+                </h5>
+
+                <ul class="footer-links">
+
+                    <li>
+                        <a href="/">
+                            Ana Sayfa
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="/">
+                            Etkinlikler
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="/home/consultants">
+                            Danışmanlar
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="/home/booking">
+                            Rezervasyon
+                        </a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+
+            <div class="col-lg-3 col-md-6">
+
+                <h5 class="footer-title">
+                    Etkinlikler
+                </h5>
+
+                <ul class="footer-links">
+
+                    <li>Düğün Organizasyonu</li>
+
+                    <li>Kurumsal Konferans</li>
+
+                    <li>Doğum Günü</li>
+
+                    <li>Nişan Organizasyonu</li>
+
+                </ul>
+
+            </div>
+
+
+            <div class="col-lg-3 col-md-6">
+
+                <h5 class="footer-title">
+                    İletişim
+                </h5>
+
+                <ul class="footer-contact">
+
+                    <li>
+                        info@eventmanager.com
+                    </li>
+
+                    <li>
+                        +90 555 123 45 67
+                    </li>
+
+                    <li>
+                        İstanbul, Türkiye
+                    </li>
+
+                </ul>
+
+            </div>
+
+
+        </div>
+
+
+
+        <div class="footer-bottom">
+
+            <p>
+                © 2026 Event Manager. Tüm hakları saklıdır.
+            </p>
+
+        </div>
+
+    </div>
+
+</footer>
+
+
+
+
+
+
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.8/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/4.0.0/jquery.min.js"></script>
+    @await RenderSectionAsync("Scripts",false)
+</body>
+
+</html>
