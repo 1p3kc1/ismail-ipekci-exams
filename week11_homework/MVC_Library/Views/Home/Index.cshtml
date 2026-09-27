@@ -1,0 +1,39 @@
+﻿@using MVC_Library.Models.Entities
+@model List<Book>
+
+@{
+    ViewData["Title"] = "Kütüphane";
+}
+
+<div class="container mt-4">
+
+    <h1 class="mb-4">
+        Kütüphanemizde @Model.Count kitap var
+    </h1>
+
+    <table class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Kitap Adı</th>
+                <th>Yazar</th>
+                <th>Sayfa Sayısı</th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            @foreach (var book in Model)
+            {
+                <tr>
+                    <td>@book.Id</td>
+                    <td>@book.Title</td>
+                    <td>@book.Author</td>
+                    <td>@book.PageCount</td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+
+</div>
