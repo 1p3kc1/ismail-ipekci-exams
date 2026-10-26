@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="TeknoShop alışveriş sepeti ve sipariş özeti.">
+  <title>Sepetim | TeknoShop</title>
+  <link rel="stylesheet" href="assets/kutuphaneler/bootstrap.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="d-flex flex-column min-vh-100">
+  <nav class="navbar bg-white border-bottom" aria-label="Ana menü">
+    <div class="container py-2 gap-2">
+      <a class="navbar-brand fw-bold text-primary fs-3" href="index.html">Tekno<span class="text-dark">Shop</span><span class="text-primary">.</span></a>
+      <div class="d-flex align-items-center gap-3">
+        <a class="text-decoration-none text-secondary" href="index.html#urunler">Ürünler</a>
+        <a class="btn btn-primary" href="sepet.html" aria-current="page">Sepetim <span class="badge text-bg-light ms-1" id="cartCount">0</span></a>
+      </div>
+    </div>
+  </nav>
+
+  <main class="container py-4 py-md-5 flex-grow-1">
+    <nav aria-label="Sayfa yolu"><ol class="breadcrumb small"><li class="breadcrumb-item"><a href="index.html" class="text-decoration-none">Ana Sayfa</a></li><li class="breadcrumb-item active" aria-current="page">Sepetim</li></ol></nav>
+    <div class="d-flex flex-wrap justify-content-between align-items-center gap-3 mb-4">
+      <div><h1 class="h2 fw-bold mb-1">Sepetim</h1><p class="text-secondary mb-0">Ürünlerini kontrol et, alışverişini tamamla.</p></div>
+      <a href="index.html#urunler" class="btn btn-outline-primary">← Alışverişe Devam Et</a>
+    </div>
+    <div class="row g-4 align-items-start">
+      <div class="col-lg-8"><div class="card"><div class="card-header bg-light py-3"><h2 class="h6 mb-0">Sepetindeki Ürünler</h2></div><div class="card-body" id="cartItems" aria-live="polite"></div></div></div>
+      <div class="col-lg-4 d-none" id="cartSummary">
+        <div class="card"><div class="card-header bg-light py-3"><h2 class="h6 mb-0">Sipariş Özeti</h2></div><div class="card-body">
+          <div class="d-flex justify-content-between mb-3"><span class="text-secondary">Ara toplam</span><span id="subtotal"></span></div>
+          <div class="d-flex justify-content-between mb-3"><span class="text-secondary">Kargo</span><span id="shippingAmount"></span></div>
+          <div class="d-flex justify-content-between fw-bold fs-5 border-top pt-3 mb-3"><span>Toplam</span><span id="totalAmount"></span></div>
+          <button class="btn btn-primary w-100 py-2" id="checkoutButton">Siparişi Tamamla</button>
+          <p class="small text-secondary text-center mt-2 mb-0">Demo alışveriş · Gerçek ödeme alınmaz</p>
+        </div></div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="bg-light border-top py-4"><div class="container d-flex flex-wrap justify-content-between gap-2"><span class="fw-bold">TeknoShop.</span><span class="text-secondary small">© 2026 TeknoShop · Frontend demo projesi</span></div></footer>
+
+  <div class="modal fade" id="orderModal" tabindex="-1" aria-labelledby="orderModalTitle" aria-hidden="true"><div class="modal-dialog modal-dialog-centered"><div class="modal-content"><div class="modal-header"><h2 class="modal-title h5" id="orderModalTitle">Demo Sipariş Özeti</h2><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Kapat"></button></div><div class="modal-body" id="orderModalBody"></div><div class="modal-footer"><button type="button" class="btn btn-primary" data-bs-dismiss="modal">Alışverişe Dön</button></div></div></div></div>
+  <div class="toast-container position-fixed bottom-0 start-50 translate-middle-x p-3"><div id="notificationToast" class="toast align-items-center text-bg-dark border-0" role="status" aria-live="polite" aria-atomic="true"><div class="d-flex"><div class="toast-body" id="toastMessage"></div><button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast" aria-label="Bildirimi kapat"></button></div></div></div>
+  <script src="assets/kutuphaneler/jquery.min.js"></script>
+  <script src="assets/kutuphaneler/bootstrap.bundle.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

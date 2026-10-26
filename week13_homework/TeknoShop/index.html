@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="TeknoShop — Bootstrap ve jQuery ile hazırlanmış örnek teknoloji mağazası.">
+  <title>TeknoShop | Teknoloji Mağazası</title>
+  <link rel="stylesheet" href="assets/kutuphaneler/bootstrap.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <nav class="navbar navbar-expand-lg bg-white border-bottom sticky-top" aria-label="Ana menü">
+    <div class="container py-2">
+      <a class="navbar-brand fw-bold text-primary fs-3" href="index.html">Tekno<span class="text-dark">Shop</span><span class="text-primary">.</span></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainMenu" aria-controls="mainMenu" aria-expanded="false" aria-label="Menüyü aç"><span class="navbar-toggler-icon"></span></button>
+      <div class="collapse navbar-collapse gap-4" id="mainMenu">
+        <ul class="navbar-nav ms-lg-4 me-auto">
+          <li class="nav-item"><a class="nav-link active" href="#" aria-current="page">Ana Sayfa</a></li>
+          <li class="nav-item"><a class="nav-link" href="#urunler">Ürünler</a></li>
+          <li class="nav-item"><a class="nav-link" href="#hakkimizda">Hakkımızda</a></li>
+        </ul>
+        <div class="d-flex gap-2 my-2 my-lg-0">
+          <button class="btn btn-outline-secondary" id="favoritesButton" aria-pressed="false" aria-label="Favori ürünleri göster">♡ <span class="d-lg-none d-xl-inline">Favoriler</span> <span id="favoriteCount" class="small">0</span></button>
+          <a class="btn btn-primary" href="sepet.html">
+            <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.7" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 3h2l3 13h11l2-9H6"/><circle cx="10" cy="20" r="1"/><circle cx="18" cy="20" r="1"/></svg>
+            Sepetim <span class="badge text-bg-light ms-1" id="cartCount">0</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <main>
+    <section class="container mt-4" aria-label="Öne çıkan ürünler">
+      <div id="heroCarousel" class="carousel slide rounded-3 overflow-hidden">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="row align-items-center g-0 hero-slide bg-primary-subtle">
+              <div class="col-md-7 p-4 p-lg-5">
+                <span class="badge text-bg-primary mb-3">TEKNOLOJİYİ KEŞFET</span>
+                <h1 class="display-5 fw-bold mb-3">Teknolojiye bir<br><span class="text-primary">adım daha yakın.</span></h1>
+                <p class="text-secondary mb-4 col-lg-10">Kulaklıktan bilgisayara, günlük hayatını kolaylaştıran teknolojik ürünleri keşfet.</p>
+                <a href="#urunler" class="btn btn-primary px-4 py-2">Alışverişe Başla <span class="ms-2" aria-hidden="true">→</span></a>
+              </div>
+              <div class="col-md-5 text-center p-4 hero-product">
+                <img src="assets/images/headphones.jpg" class="img-fluid rounded-3" width="900" height="604" alt="Beyaz masa üzerinde siyah kulak üstü kulaklık fotoğrafı">
+                <div class="mt-2"><span class="badge bg-white text-primary px-3 py-2">Sesini bul. Müziği hisset.</span></div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="row align-items-center g-0 hero-slide bg-success-subtle">
+              <div class="col-md-7 p-4 p-lg-5">
+                <span class="badge text-bg-success mb-3">HER GÜNE EŞLİK ETSİN</span>
+                <h2 class="display-5 fw-bold mb-3">Küçük detaylar,<br><span class="text-success">büyük kolaylıklar.</span></h2>
+                <p class="text-secondary mb-4">Tarzına ve günlük rutinine uyum sağlayan saat ve aksesuarlarla tanış.</p>
+                <button class="btn btn-success px-4 py-2" id="heroWatchButton">Saatleri Keşfet <span class="ms-2" aria-hidden="true">→</span></button>
+              </div>
+              <div class="col-md-5 p-4 text-center"><img src="assets/images/watch.jpg" class="img-fluid rounded-3 secondary-hero-image" width="300" height="300" alt="Beyaz zeminde kol saati"></div>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-indicators mb-2">
+          <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="0" class="active bg-primary" aria-current="true" aria-label="Birinci slayt"></button>
+          <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="1" class="bg-primary" aria-label="İkinci slayt"></button>
+        </div>
+      </div>
+    </section>
+
+    <section class="container py-4" id="urunler" aria-labelledby="productsHeading">
+      <div class="d-flex flex-wrap justify-content-between align-items-end gap-3 mb-4">
+        <div><span class="text-primary small fw-semibold">TEKNOLOJİ DÜNYASINI KEŞFET</span><h2 class="fw-bold mt-1 mb-1" id="productsHeading">Popüler Ürünler</h2><p class="text-secondary mb-0">İhtiyacın olan teknoloji, tek bir yerde.</p></div>
+        <span class="text-secondary small" id="resultCount" role="status" aria-live="polite"></span>
+      </div>
+      <div class="row g-3 mb-3 align-items-center">
+        <div class="col-md-8">
+          <label for="searchInput" class="visually-hidden">Ürün ara</label>
+          <div class="input-group"><span class="input-group-text bg-white" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="10" cy="10" r="7"/><path d="m15 15 6 6"/></svg></span><input type="search" id="searchInput" class="form-control" placeholder="Bir ürün ara..." autocomplete="off"></div>
+        </div>
+        <div class="col-md-4"><label for="sortSelect" class="visually-hidden">Ürünleri sırala</label><select class="form-select" id="sortSelect"><option value="default">Önerilen sıralama</option><option value="priceAsc">Fiyat: düşükten yükseğe</option><option value="priceDesc">Fiyat: yüksekten düşüğe</option><option value="name">Ürün adı: A–Z</option></select></div>
+      </div>
+      <div class="d-flex flex-wrap gap-2 mb-4" id="categoryFilters" role="group" aria-label="Ürün kategorileri">
+        <button class="btn btn-primary btn-sm px-3" data-category="all" aria-pressed="true">Tüm Ürünler</button>
+        <button class="btn btn-outline-secondary btn-sm px-3" data-category="phone" aria-pressed="false">Telefon</button>
+        <button class="btn btn-outline-secondary btn-sm px-3" data-category="computer" aria-pressed="false">Bilgisayar</button>
+        <button class="btn btn-outline-secondary btn-sm px-3" data-category="audio" aria-pressed="false">Ses & Kulaklık</button>
+        <button class="btn btn-outline-secondary btn-sm px-3" data-category="watch" aria-pressed="false">Saat</button>
+        <button class="btn btn-outline-secondary btn-sm px-3" data-category="gaming" aria-pressed="false">Oyun</button>
+        <button class="btn btn-outline-secondary btn-sm px-3" data-category="accessory" aria-pressed="false">Aksesuar</button>
+      </div>
+      <div class="row g-4" id="productList"></div>
+      <div class="text-center py-5 d-none" id="emptyState"><h3 class="h5">Aradığın ürün bulunamadı.</h3><p class="text-secondary">Başka bir kelime deneyebilir veya filtreleri temizleyebilirsin.</p><button class="btn btn-outline-primary" id="resetFilters">Filtreleri Temizle</button></div>
+    </section>
+
+    <section class="container py-4 mb-4" id="hakkimizda" aria-labelledby="aboutHeading">
+      <div class="row g-4 align-items-start">
+        <div class="col-lg-5"><h2 class="h4 fw-bold" id="aboutHeading">TeknoShop Hakkında</h2><p class="text-secondary">Teknolojiyi seviyoruz! Telefon, bilgisayar, kulaklık ve daha birçok ürünü bir araya getirerek kolay bir alışveriş deneyimi sunmayı amaçlıyoruz.</p><div class="alert alert-light border small mb-0">Bu site, HTML, Bootstrap ve jQuery ile hazırlanmış bir frontend projesidir. Ürünler ve fiyatlar örnektir; gerçek ödeme veya sipariş alınmaz.</div></div>
+        <div class="col-lg-7"><div class="accordion" id="faqAccordion">
+          <div class="accordion-item"><h3 class="accordion-header"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqShipping" aria-expanded="false" aria-controls="faqShipping">Kargo ücreti ne kadar?</button></h3><div id="faqShipping" class="accordion-collapse collapse" data-bs-parent="#faqAccordion"><div class="accordion-body text-secondary">Bu örnek mağazada 1.500 TL ve üzeri siparişlerde kargo ücretsizdir. Daha düşük tutarlar için sepete 79,90 TL kargo bedeli eklenir.</div></div></div>
+          <div class="accordion-item"><h3 class="accordion-header"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqCart" aria-expanded="false" aria-controls="faqCart">Sepetim ve favorilerim saklanıyor mu?</button></h3><div id="faqCart" class="accordion-collapse collapse" data-bs-parent="#faqAccordion"><div class="accordion-body text-secondary">Evet. Sepet ve favoriler bu tarayıcıda saklanır. Sayfayı yenilediğinde ürünlerini görmeye devam edersin. Tarayıcı verileri temizlenirse kayıtlar da silinir.</div></div></div>
+          <div class="accordion-item"><h3 class="accordion-header"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqPayment" aria-expanded="false" aria-controls="faqPayment">Gerçek alışveriş yapabilir miyim?</button></h3><div id="faqPayment" class="accordion-collapse collapse" data-bs-parent="#faqAccordion"><div class="accordion-body text-secondary">Bu bir demo projedir. Sepet ve sipariş özeti özelliklerini deneyebilirsin; ödeme bilgisi istenmez ve gerçek sipariş oluşturulmaz.</div></div></div>
+        </div></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="bg-light border-top py-4"><div class="container d-flex flex-wrap justify-content-between align-items-center gap-3"><div><a class="text-decoration-none fw-bold fs-5 text-primary" href="#">Tekno<span class="text-dark">Shop</span>.</a><p class="text-secondary small mb-0 mt-1">Teknoloji alışverişinin kolay hali.</p></div><div class="text-secondary small">© 2026 TeknoShop · Frontend demo projesi</div></div></footer>
+
+  <div class="modal fade" id="productModal" tabindex="-1" aria-labelledby="productModalTitle" aria-hidden="true"><div class="modal-dialog modal-dialog-centered modal-lg"><div class="modal-content"><div class="modal-header"><h2 class="modal-title h5" id="productModalTitle">Ürün Detayı</h2><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Kapat"></button></div><div class="modal-body" id="productModalBody"></div></div></div></div>
+  <div class="toast-container position-fixed bottom-0 start-50 translate-middle-x p-3"><div id="notificationToast" class="toast align-items-center text-bg-dark border-0" role="status" aria-live="polite" aria-atomic="true"><div class="d-flex"><div class="toast-body" id="toastMessage"></div><button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast" aria-label="Bildirimi kapat"></button></div></div></div>
+
+  <script src="assets/kutuphaneler/jquery.min.js"></script>
+  <script src="assets/kutuphaneler/bootstrap.bundle.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
