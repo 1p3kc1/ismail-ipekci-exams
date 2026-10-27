@@ -1,0 +1,81 @@
+Ürün görselleri: model adına göre DummyJSON ürün kataloğundan indirildi.
+https://dummyjson.com/docs/products
+Fiyatlar ve değerlendirme puanları eğitim projesi için örnektir.
+
+apple-iphone-x.jpg
+iPhone X
+https://dummyjson.com/products/124
+https://cdn.dummyjson.com/product-images/smartphones/iphone-x/1.webp
+
+apple-macbook-pro-14.jpg
+Apple MacBook Pro 14 Inch Space Grey
+https://dummyjson.com/products/78
+https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/1.webp
+
+apple-airpods-max.jpg
+Apple AirPods Max Silver
+https://dummyjson.com/products/101
+https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/1.webp
+
+apple-watch-series-4.jpg
+Apple Watch Series 4 Gold
+https://dummyjson.com/products/106
+https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/1.webp
+
+apple-airpods.jpg
+Apple Airpods
+https://dummyjson.com/products/100
+https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/1.webp
+
+amazon-echo-plus.jpg
+Amazon Echo Plus
+https://dummyjson.com/products/99
+https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp
+
+samsung-galaxy-s10.jpg
+Samsung Galaxy S10
+https://dummyjson.com/products/133
+https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/1.webp
+
+apple-iphone-13-pro.jpg
+iPhone 13 Pro
+https://dummyjson.com/products/123
+https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/1.webp
+
+huawei-matebook-x-pro.jpg
+Huawei Matebook X Pro
+https://dummyjson.com/products/80
+https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/1.webp
+
+dell-xps-13.jpg
+New DELL XPS 13 9300 Laptop
+https://dummyjson.com/products/82
+https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp
+
+asus-zenbook-pro-duo.jpg
+Asus Zenbook Pro Dual Screen Laptop
+https://dummyjson.com/products/79
+https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/1.webp
+
+lenovo-yoga-920.jpg
+Lenovo Yoga 920
+https://dummyjson.com/products/81
+https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/1.webp
+
+apple-ipad-mini.jpg
+iPad Mini 2021 Starlight
+https://dummyjson.com/products/159
+https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/1.webp
+
+beats-flex.jpg
+Beats Flex Wireless Earphones
+https://dummyjson.com/products/107
+https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/1.webp
+
+Diğer fotoğraflar: Unsplash
+microsoft-xbox-controller.jpg: https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf
+apple-wireless-keyboard.jpg: https://images.unsplash.com/photo-1587829741301-dc798b83add3
+apple-watch-black.jpg: https://images.unsplash.com/photo-1546868871-7041f2a55e12
+logitech-g-mouse.jpg: https://images.unsplash.com/photo-1527814050087-3793815479db
+sony-playstation-5.jpg: https://images.unsplash.com/photo-1606144042614-b2417e99c4e3
+canon-eos-camera.jpg: https://images.unsplash.com/photo-1516035069371-29a1b244cc32

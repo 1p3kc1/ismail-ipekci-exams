@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="TeknoShop ürün fotoğrafı, özellikleri ve fiyatı.">
+  <title>Ürün Detayı | TeknoShop</title>
+  <link rel="stylesheet" href="assets/kutuphaneler/bootstrap.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="d-flex flex-column min-vh-100">
+  <nav class="navbar bg-white border-bottom" aria-label="Ana menü">
+    <div class="container py-2 gap-2">
+      <a class="navbar-brand fw-bold text-primary fs-3" href="index.html">Tekno<span
+          class="text-dark">Shop</span><span class="text-primary">.</span>
+      </a>
+      <div class="d-flex align-items-center gap-3">
+        <a class="text-decoration-none text-secondary" href="urunler.html">Ürünler</a>
+        <a class="btn btn-primary" href="sepet.html">Sepetim <span class="badge text-bg-light ms-1"
+            id="cartCount">0</span>
+        </a>
+      </div>
+    </div>
+  </nav>
+  <main class="container py-4 py-md-5 flex-grow-1">
+    <nav aria-label="Sayfa yolu">
+      <ol class="breadcrumb small">
+        <li class="breadcrumb-item">
+          <a href="index.html" class="text-decoration-none">Ana Sayfa</a>
+        </li>
+        <li class="breadcrumb-item">
+          <a href="urunler.html" class="text-decoration-none">Ürünler</a>
+        </li>
+        <li class="breadcrumb-item active" id="productBreadcrumb" aria-current="page">Ürün Detayı</li>
+      </ol>
+    </nav>
+    <div class="mb-4">
+      <a href="urunler.html" class="btn btn-outline-secondary btn-sm">← Ürünlere Dön</a>
+    </div>
+    <div id="productDetail"></div>
+  </main>
+  <footer class="bg-light border-top py-4">
+    <div class="container d-flex flex-wrap justify-content-between gap-2">
+      <span class="fw-bold">TeknoShop.</span>
+      <span class="text-secondary small">© 2026 TeknoShop · Frontend demo projesi</span>
+    </div>
+  </footer>
+  <div class="toast-container position-fixed bottom-0 start-50 translate-middle-x p-3">
+    <div id="notificationToast" class="toast align-items-center text-bg-dark border-0" role="status"
+      aria-live="polite" aria-atomic="true">
+      <div class="d-flex">
+        <div class="toast-body" id="toastMessage"></div>
+        <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast"
+          aria-label="Bildirimi kapat"></button>
+      </div>
+    </div>
+  </div>
+  <script src="assets/kutuphaneler/jquery.min.js"></script>
+  <script src="assets/kutuphaneler/bootstrap.bundle.min.js"></script>
+  <!-- Önce ürün verileri ve ortak işlemler, sonra bu sayfanın kodu yüklenir. -->
+  <script src="urun-verileri.js"></script>
+  <script src="ortak.js"></script>
+  <script src="urun.js"></script>
+</body>
+
+</html>
