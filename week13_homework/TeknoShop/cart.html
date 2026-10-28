@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="TeknoShop alışveriş sepeti ve sipariş özeti.">
   <title>Sepetim | TeknoShop</title>
-  <link rel="stylesheet" href="assets/kutuphaneler/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/libraries/bootstrap.min.css">
   <link rel="stylesheet" href="style.css">
 </head>
 
@@ -17,8 +17,8 @@
           class="text-dark">Shop</span><span class="text-primary">.</span>
       </a>
       <div class="d-flex align-items-center gap-3">
-        <a class="text-decoration-none text-secondary" href="urunler.html">Ürünler</a>
-        <a class="btn btn-primary" href="sepet.html" aria-current="page">Sepetim <span
+        <a class="text-decoration-none text-secondary" href="products.html">Ürünler</a>
+        <a class="btn btn-primary" href="cart.html" aria-current="page">Sepetim <span
             class="badge text-bg-light ms-1" id="cartCount">0</span>
         </a>
       </div>
@@ -38,7 +38,7 @@
         <h1 class="h2 fw-bold mb-1">Sepetim</h1>
         <p class="text-secondary mb-0">Ürünlerini kontrol et, alışverişini tamamla.</p>
       </div>
-      <a href="urunler.html" class="btn btn-outline-primary">← Alışverişe Devam Et</a>
+      <a href="products.html" class="btn btn-outline-primary">← Alışverişe Devam Et</a>
     </div>
     <div class="row g-4 align-items-start">
       <div class="col-lg-8">
@@ -87,7 +87,15 @@
           <h2 class="modal-title h5" id="orderModalTitle">Demo Sipariş Özeti</h2>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Kapat"></button>
         </div>
-        <div class="modal-body" id="orderModalBody"></div>
+        <div class="modal-body" id="orderModalBody">
+          <div class="alert alert-info">Bu bir demo sipariştir. Ödeme alınmadı ve gerçek sipariş
+            oluşturulmadı.</div>
+          <ul id="orderItems" class="list-group list-group-flush mb-3"></ul>
+          <p class="d-flex justify-content-between"><span>Kargo</span><span id="orderShipping"></span></p>
+          <p class="d-flex justify-content-between fw-bold fs-5 border-top pt-3"><span>Toplam</span><span
+              id="orderTotal"></span></p>
+          <p class="small text-secondary mb-0">Sepetin korunur; ürün eklemeye devam edebilirsin.</p>
+        </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Alışverişe Dön</button>
         </div>
@@ -104,12 +112,39 @@
       </div>
     </div>
   </div>
-  <script src="assets/kutuphaneler/jquery.min.js"></script>
-  <script src="assets/kutuphaneler/bootstrap.bundle.min.js"></script>
+
+  <template id="emptyCartTemplate">
+    <div class="text-center py-5">
+      <div class="display-4 text-secondary mb-3" aria-hidden="true">🛒</div>
+      <h3 class="h5">Sepetin şu an boş.</h3>
+      <p class="text-secondary">Beğendiğin ürünleri sepetine ekleyebilirsin.</p>
+      <a class="btn btn-primary" href="products.html">Ürünleri Keşfet</a>
+    </div>
+  </template>
+  <template id="cartItemTemplate">
+    <div class="d-flex gap-3 border-bottom py-3">
+      <img class="cart-image rounded" width="64" height="64">
+      <div class="flex-grow-1">
+        <h3 class="cart-name h6 small fw-semibold mb-1"></h3>
+        <p class="cart-price small mb-2"></p>
+        <div class="d-flex justify-content-between align-items-center gap-2">
+          <div class="btn-group btn-group-sm" role="group">
+            <button class="btn btn-outline-secondary change-quantity" data-change="-1">−</button>
+            <span class="cart-quantity btn btn-light disabled"></span>
+            <button class="btn btn-outline-secondary change-quantity" data-change="1">+</button>
+          </div>
+          <button class="btn btn-link btn-sm text-danger p-0 remove-from-cart">Kaldır</button>
+        </div>
+      </div>
+    </div>
+  </template>
+
+  <script src="assets/libraries/jquery.min.js"></script>
+  <script src="assets/libraries/bootstrap.bundle.min.js"></script>
   <!-- Önce ürün verileri ve ortak işlemler, sonra bu sayfanın kodu yüklenir. -->
-  <script src="urun-verileri.js"></script>
-  <script src="ortak.js"></script>
-  <script src="sepet.js"></script>
+  <script src="product-data.js"></script>
+  <script src="common.js"></script>
+  <script src="cart.js"></script>
 </body>
 
 </html>

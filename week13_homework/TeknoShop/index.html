@@ -7,7 +7,7 @@
   <meta name="description"
     content="TeknoShop — Bootstrap ve jQuery ile hazırlanmış örnek teknoloji mağazası.">
   <title>TeknoShop | Teknoloji Mağazası</title>
-  <link rel="stylesheet" href="assets/kutuphaneler/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/libraries/bootstrap.min.css">
   <link rel="stylesheet" href="style.css">
 </head>
 
@@ -27,18 +27,18 @@
             <a class="nav-link active" href="#" aria-current="page">Ana Sayfa</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="urunler.html">Ürünler</a>
+            <a class="nav-link" href="products.html">Ürünler</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#hakkimizda">Hakkımızda</a>
           </li>
         </ul>
         <div class="d-flex gap-2 my-2 my-lg-0">
-          <a class="btn btn-outline-secondary" href="urunler.html?favoriler=1"
+          <a class="btn btn-outline-secondary" href="products.html?favoriler=1"
             aria-label="Favori ürünleri göster">♡ <span class="d-lg-none d-xl-inline">Favoriler</span>
             <span id="favoriteCount" class="small">0</span>
           </a>
-          <a class="btn btn-primary" href="sepet.html">
+          <a class="btn btn-primary" href="cart.html">
             <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.7"
               viewBox="0 0 24 24" aria-hidden="true">
               <path d="M3 3h2l3 13h11l2-9H6" />
@@ -64,7 +64,7 @@
                 </h1>
                 <p class="text-secondary mb-4 col-lg-10">Kulaklıktan bilgisayara, günlük hayatını
                   kolaylaştıran teknolojik ürünleri keşfet.</p>
-                <a href="urunler.html" class="btn btn-primary px-4 py-2">Alışverişe Başla <span class="ms-2"
+                <a href="products.html" class="btn btn-primary px-4 py-2">Alışverişe Başla <span class="ms-2"
                     aria-hidden="true">→</span>
                 </a>
               </div>
@@ -87,7 +87,7 @@
                 </h2>
                 <p class="text-secondary mb-4">Tarzına ve günlük rutinine uyum sağlayan saat ve aksesuarlarla
                   tanış.</p>
-                <a class="btn btn-success px-4 py-2" href="urunler.html?kategori=watch">Saatleri Keşfet <span
+                <a class="btn btn-success px-4 py-2" href="products.html?kategori=watch">Saatleri Keşfet <span
                     class="ms-2" aria-hidden="true">→</span>
                 </a>
               </div>
@@ -113,7 +113,7 @@
           <h2 class="fw-bold mb-1" id="popularHeading">Popüler Ürünler</h2>
           <p class="text-secondary mb-0">Senin için seçtiğimiz teknolojik ürünler.</p>
         </div>
-        <a href="urunler.html" class="btn btn-outline-primary">Tüm Ürünleri Gör →</a>
+        <a href="products.html" class="btn btn-outline-primary">Tüm Ürünleri Gör →</a>
       </div>
       <div class="row g-4" id="popularProducts"></div>
     </section>
@@ -187,11 +187,44 @@
       </div>
     </div>
   </div>
-  <script src="assets/kutuphaneler/jquery.min.js"></script>
-  <script src="assets/kutuphaneler/bootstrap.bundle.min.js"></script>
+
+  <!-- JavaScript bu kartın bir kopyasını her ürün için doldurur. -->
+  <template id="productCardTemplate">
+    <div class="col-12 col-sm-6 col-lg-3">
+      <article class="card product-card h-100 overflow-hidden">
+        <div class="position-relative">
+          <a class="d-block w-100 product-detail">
+            <img class="card-img-top product-image" loading="lazy" width="400" height="205">
+          </a>
+          <span class="product-badge badge position-absolute top-0 start-0 m-3"></span>
+          <button
+            class="btn btn-light border rounded-circle favorite-button position-absolute top-0 end-0 m-2">
+          </button>
+        </div>
+        <div class="card-body d-flex flex-column">
+          <div class="d-flex justify-content-between small mb-2">
+            <span class="product-category text-secondary"></span>
+            <span><span class="text-warning" aria-hidden="true">★</span> <span
+                class="product-rating"></span></span>
+          </div>
+          <h3 class="h6 product-title">
+            <a class="text-dark text-decoration-none fw-semibold product-detail"></a>
+          </h3>
+          <div class="mt-auto pt-2">
+            <div class="small text-secondary mb-1">Online mağaza fiyatı</div>
+            <div class="product-price fs-5 fw-bold mb-3"></div>
+            <button class="btn btn-primary w-100 add-to-cart">Sepete Ekle</button>
+          </div>
+        </div>
+      </article>
+    </div>
+  </template>
+
+  <script src="assets/libraries/jquery.min.js"></script>
+  <script src="assets/libraries/bootstrap.bundle.min.js"></script>
   <!-- Önce ürün verileri ve ortak işlemler, sonra bu sayfanın kodu yüklenir. -->
-  <script src="urun-verileri.js"></script>
-  <script src="ortak.js"></script>
+  <script src="product-data.js"></script>
+  <script src="common.js"></script>
   <script src="index.js"></script>
 </body>
 

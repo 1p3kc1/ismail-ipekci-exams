@@ -4,8 +4,11 @@ function renderPopularProducts()
 {
   const popularIds = [1, 2, 3, 5];
   const popular = products.filter(product => popularIds.includes(product.id));
-  const cards = popular.map(createProductCard).join('');
-  $('#popularProducts').html(cards);
+  $('#popularProducts').empty();
+  $.each(popular, function (index, product)
+  {
+    $('#popularProducts').append(createProductCard(product));
+  });
 }
 
 $(function ()

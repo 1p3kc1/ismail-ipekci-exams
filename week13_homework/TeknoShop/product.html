@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="TeknoShop ürün fotoğrafı, özellikleri ve fiyatı.">
+  <title>Ürün Detayı | TeknoShop</title>
+  <link rel="stylesheet" href="assets/libraries/bootstrap.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="d-flex flex-column min-vh-100">
+  <nav class="navbar bg-white border-bottom" aria-label="Ana menü">
+    <div class="container py-2 gap-2">
+      <a class="navbar-brand fw-bold text-primary fs-3" href="index.html">Tekno<span
+          class="text-dark">Shop</span><span class="text-primary">.</span>
+      </a>
+      <div class="d-flex align-items-center gap-3">
+        <a class="text-decoration-none text-secondary" href="products.html">Ürünler</a>
+        <a class="btn btn-primary" href="cart.html">Sepetim <span class="badge text-bg-light ms-1"
+            id="cartCount">0</span>
+        </a>
+      </div>
+    </div>
+  </nav>
+  <main class="container py-4 py-md-5 flex-grow-1">
+    <nav aria-label="Sayfa yolu">
+      <ol class="breadcrumb small">
+        <li class="breadcrumb-item">
+          <a href="index.html" class="text-decoration-none">Ana Sayfa</a>
+        </li>
+        <li class="breadcrumb-item">
+          <a href="products.html" class="text-decoration-none">Ürünler</a>
+        </li>
+        <li class="breadcrumb-item active" id="productBreadcrumb" aria-current="page">Ürün Detayı</li>
+      </ol>
+    </nav>
+    <div class="mb-4">
+      <a href="products.html" class="btn btn-outline-secondary btn-sm">← Ürünlere Dön</a>
+    </div>
+
+    <div id="missingProduct" class="alert alert-warning d-none">
+      <h1 class="h4">Ürün bulunamadı.</h1>
+      <p>Ürün listesine dönerek başka bir ürün seçebilirsin.</p>
+      <a class="btn btn-primary" href="products.html">Ürünlere Dön</a>
+    </div>
+    <div id="productDetail" class="row g-4 g-lg-5 align-items-center d-none">
+      <div class="col-md-6">
+        <div class="border rounded-3 bg-light p-3 p-md-4">
+          <img id="detailImage" class="detail-image">
+        </div>
+      </div>
+      <div class="col-md-6">
+        <span id="detailCategory" class="badge text-bg-light border mb-3"></span>
+        <h1 id="detailName" class="h2 fw-bold mb-3"></h1>
+        <p class="small mb-3"><span class="text-warning" aria-hidden="true">★</span> <span
+            id="detailRating"></span> / 5</p>
+        <p id="detailDescription" class="text-secondary"></p>
+        <h2 class="h6 fw-bold mt-4">Ürün Özellikleri</h2>
+        <ul id="detailSpecs" class="ps-3 mb-4"></ul>
+        <p class="small text-secondary mb-1">Online mağaza fiyatı</p>
+        <p id="detailPrice" class="fs-3 fw-bold mb-3"></p>
+        <div class="d-flex flex-wrap gap-2">
+          <button id="detailAddButton" class="btn btn-primary px-4 add-to-cart">Sepete Ekle</button>
+          <a class="btn btn-outline-primary" href="cart.html">Sepetime Git</a>
+        </div>
+        <p class="small text-secondary mt-3 mb-0">Örnek ürün ve özelliklerdir. Gerçek ödeme alınmaz.</p>
+      </div>
+    </div>
+  </main>
+  <footer class="bg-light border-top py-4">
+    <div class="container d-flex flex-wrap justify-content-between gap-2">
+      <span class="fw-bold">TeknoShop.</span>
+      <span class="text-secondary small">© 2026 TeknoShop · Frontend demo projesi</span>
+    </div>
+  </footer>
+  <div class="toast-container position-fixed bottom-0 start-50 translate-middle-x p-3">
+    <div id="notificationToast" class="toast align-items-center text-bg-dark border-0" role="status"
+      aria-live="polite" aria-atomic="true">
+      <div class="d-flex">
+        <div class="toast-body" id="toastMessage"></div>
+        <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast"
+          aria-label="Bildirimi kapat"></button>
+      </div>
+    </div>
+  </div>
+  <script src="assets/libraries/jquery.min.js"></script>
+  <script src="assets/libraries/bootstrap.bundle.min.js"></script>
+  <!-- Önce ürün verileri ve ortak işlemler, sonra bu sayfanın kodu yüklenir. -->
+  <script src="product-data.js"></script>
+  <script src="common.js"></script>
+  <script src="product.js"></script>
+</body>
+
+</html>

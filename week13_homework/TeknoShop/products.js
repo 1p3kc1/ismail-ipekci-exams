@@ -26,8 +26,11 @@ function renderProducts()
   {
     filtered.sort((first, second) => first.name.localeCompare(second.name, 'tr'));
   }
-  const cards = filtered.map(createProductCard).join('');
-  $('#productList').html(cards);
+  $('#productList').empty();
+  $.each(filtered, function (index, product)
+  {
+    $('#productList').append(createProductCard(product));
+  });
   $('#resultCount').text(`${filtered.length} ürün gösteriliyor`);
   $('#emptyState').toggleClass('d-none', filtered.length > 0);
   $('#productsHeading').text(showFavorites ? 'Favori Ürünlerim' : 'Ürünler');
